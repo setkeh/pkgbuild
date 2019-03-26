@@ -34,8 +34,7 @@ package() {
   install -m644 -D $srcdir/dwm.desktop $pkgdir/usr/share/xsessions/dwm.desktop
 }
 
-
 md5sums=('9929845ccdec4d2cc191f16210dd7f3d'
-         '0dd6eeb98d71e69b65918f3b1c0a4377'
+         '8dafaee73f7b48c6489885df6ac42d8a'
          'd61cf5e985e55bcb341977b5181ee24d'
          'f3b789acf1550e7d6de1e9f956c6e8ec')
