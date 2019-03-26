@@ -1,0 +1,4 @@
+post_install() {
+  echo "-- Edit $(PWD)/config.def.h"
+  echo "-- and rebuild package if you want to change settings."
+}
