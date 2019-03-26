@@ -1,6 +1,6 @@
 src/
 pkg/
-slstatus/
+slstatus/slstatus
 *.xz
 *.gz
 .vscode
